@@ -429,7 +429,6 @@ function fixLinearGradients() {
         }
     }
 }
-}
 
 function fixBackgrounds() {
 
